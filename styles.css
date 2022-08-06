@@ -1,0 +1,44 @@
+body {
+    background-color: #fe6601;
+}
+
+.Name {
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40px;
+    font-size: 50px;
+    width: 500px;
+}
+
+.starwar{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    object-fit: cover;
+    margin-left: 50px;
+    margin-top: -10px;
+   
+}
+
+.insta {
+    margin-left: 114px;
+    margin-top: 30px;
+    padding-top: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 35px;
+    border-radius: 100px;
+    border-style: none;
+    background-color: #1d5191;
+    color: white;
+    font-size: 20px;
+}
+
+.insta:hover{
+    background-color: #498cdf;
+    transition: 0.3s;
+}
+
+.word{
+    color: white;
+}
